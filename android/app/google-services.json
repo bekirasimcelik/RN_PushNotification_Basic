@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41520563416",
+    "project_id": "didiyos",
+    "storage_bucket": "didiyos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41520563416:android:fd6e258b86cecc4a8543ad",
+        "android_client_info": {
+          "package_name": "com.didiyos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3L7wlH2wsrjrR64P5H0SWIv22pOSRBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41520563416:android:27cb93e29373f1438543ad",
+        "android_client_info": {
+          "package_name": "com.example.notification_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3L7wlH2wsrjrR64P5H0SWIv22pOSRBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
